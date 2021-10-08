@@ -3,9 +3,7 @@
     <output-path>$PROJECT_DIR$/classes/artifacts/shopping_war_exploded</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="shopping" />
-        </element>
+        <element id="directory" name="classes" />
       </element>
       <element id="javaee-facet-resources" facet="shopping/web/Web" />
     </root>
