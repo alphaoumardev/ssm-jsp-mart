@@ -17,7 +17,11 @@
         <webroots>
           <root url="file://$MODULE_DIR$/WebContent" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration />
     </facet>
   </component>
   <component name="NewModuleRootManager">
@@ -31,5 +35,6 @@
     <orderEntry type="library" name="repository" level="project" />
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="library" name="shop" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
